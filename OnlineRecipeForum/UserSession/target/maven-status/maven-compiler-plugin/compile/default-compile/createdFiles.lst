@@ -1,0 +1,11 @@
+endpoint/MyAppServletContextListener.class
+endpoint/RegisterResource.class
+mustansir/usersession/resources/JakartaEE8Resource.class
+endpoint/ApplicationConfig.class
+Business/Messaging.class
+Business/Messaging$1.class
+Persistence/User_CRUD.class
+endpoint/UserResource.class
+mustansir/usersession/JakartaRestConfiguration.class
+Helper/User.class
+endpoint/MyAppServletContextListener$1.class
