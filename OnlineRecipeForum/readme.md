@@ -7,7 +7,6 @@ A microservices-based full-stack web application for sharing and discovering rec
 ## 🥘 Features
 
 - User registration, login, and profile management.
-- Post, edit, and delete recipes.
 - Search and browse recipes with filters.
 - RESTful APIs powering the backend microservices.
 - Containerized with Docker and deployed on Kubernetes.
@@ -36,19 +35,8 @@ A microservices-based full-stack web application for sharing and discovering rec
 
 2. Build Docker images for each microservice.
 
-3. Deploy services to your Kubernetes cluster using provided manifests.
+3. Deploy services to your Kubernetes cluster.
 
 4. Access the frontend via the exposed service endpoint.
 
 ---
-
-## ⚠️ Notes
-
-- Designed for cloud-native environments.
-- Microservices communicate via REST APIs.
-- Assumes knowledge of Kubernetes and Docker for deployment.
-- No automated deployment scripts included.
-
----
-
-Built with a mix of fancy tech so you can pretend to be a cloud ninja.
